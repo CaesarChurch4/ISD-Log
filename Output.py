@@ -1,0 +1,5 @@
+print ("Hi there, what is your name?")
+yourname =input("Please enter your name: ")
+print ("Hello")
+print (yourname)
+print ("How are you?")
